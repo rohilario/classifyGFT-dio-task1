@@ -57,7 +57,7 @@ As tecnologias utilizadas neste projeto são:
    cd nome-do-projeto
    ```
 3. Execute o código em sua máquina utilizizando o node chamando o arquivo index. 
-    ````
+    ```
         node index.js
     ```
 ## Instruções de Entrega
@@ -69,4 +69,4 @@ As tecnologias utilizadas neste projeto são:
 
 ---
 
-Desafio do bootcamp **[GFT Start #6]**. Desenvolvido por **[Seu Nome]**.
+Desafio do bootcamp **[GFT Start #6]**. Desenvolvido por **[Rodrigo Hilário]**.
